@@ -1,6 +1,6 @@
 # Hamming Code implementation comparison
 
-##Presentation
+## Presentation
 
 Comparison of multiple hamming code implementation done in python.
 Three methods are compared (both encoding and decoding): 
@@ -19,10 +19,10 @@ error detection and correction capacity.
 Project done for the TIPE ("Travail d'Initiative Personelle Encadré" or 
 "Self-Directed Supervised Work") exam of the french preparatory classes.
 
-##Sources
+## Sources
 
-Refer to "rapport/slides.pdf" for an extensive list of sources.
+Refer to `rapport/slides.pdf` for an extensive list of sources.
 
-##Credits
+## Credits
 
 Done by Reallnas in 2021.
